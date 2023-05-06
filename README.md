@@ -6,6 +6,6 @@ A reservation system with admin and user environments.
      username : admin
      password : admin
 
-In the case that the databse file doesn't upload use the following sql query in phpMyadmin:
+In the case that the database file doesn't upload use the following sql query in phpMyadmin:
 
                   SET GLOBAL MAX_ALLOWED_PACKET=1000000000;
