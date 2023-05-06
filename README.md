@@ -1,5 +1,6 @@
 # CinemaReservationSystem
 A reservation system with admin and user environments.
+
   For account admin login credentials:
 
      username : admin
